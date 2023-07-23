@@ -11,9 +11,10 @@ Perl, perl module Image::Magick
 
 **Example of conversion**: 
 
+The image file
+
 ![](valheim_emblem.png "Valheim emblem")
 
 may be converted into follow structure
 
 ![](valheim_emblem_screenshot.jpg "Valheim emblem in game")
-
