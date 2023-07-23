@@ -1,5 +1,5 @@
 # img2bpl.pl
-Script for converting image file to Valheim blueprint (suitable for using with PlanBuild mod)
+Script for converting image file into Valheim blueprint (suitable for using with PlanBuild mod)
 
 **Usage**:
 img2bpl.pl image_file blueprint_name > blueprint_name.blueprint
