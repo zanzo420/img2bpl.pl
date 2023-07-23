@@ -15,6 +15,6 @@ The image file
 
 ![](valheim_emblem.png "Valheim emblem")
 
-may be converted into follow structure
+may be converted into following structure
 
 ![](valheim_emblem_screenshot.jpg "Valheim emblem in game")
