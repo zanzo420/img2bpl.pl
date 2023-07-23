@@ -41,7 +41,7 @@ $z3 = $z2 + $pixsz;
 
 $pixelt = '<color=#~rgb~>■\n';
 
-$colt = 'sign;Furniture;~x~;~z1~;0;1;0;0;0;"<size=8>~pix1~";0.1;0.1;0.1
+$colt = 'sign;Furniture;~x~;~z1~;0;1;0;0;0;"<size=8>~pix1~";1;1;1
 sign;Furniture;~x~;~z2~;0;1;0;0;0;"<size=8>~pix2~";1;1;1
 sign;Furniture;~x~;~z3~;0;1;0;0;0;"<size=8>~pix3~";1;1;1
 ';
